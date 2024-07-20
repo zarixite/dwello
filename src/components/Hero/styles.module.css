@@ -1,0 +1,43 @@
+.container {
+	display: flex;
+	flex-direction: column;
+}
+.desc {
+	width: 515px;
+	height: 421px;
+}
+.h1 {
+	font-size: 74px;
+}
+.h2 {
+	font-size: 68px;
+	margin-bottom: 32px;
+}
+.base {
+	color: #2b1b12;
+	font-weight: 800;
+}
+.info {
+	margin-bottom: 72px;
+	font-weight: 700;
+	font-size: 18px;
+	color: #4f3527;
+	line-height: 1.6;
+	width: 413px;
+}
+.btn {
+	background-color: #2b1b12;
+	color: #fff;
+	font-weight: 600;
+	font-size: 18px;
+	width: 176px;
+	height: 58px;
+	border-radius: 8px;
+}
+.hero {
+	width: 1050px;
+	z-index: -1;
+	position: absolute;
+	top: 20px;
+	left: 455px;
+}
