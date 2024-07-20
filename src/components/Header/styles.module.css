@@ -1,0 +1,51 @@
+.logo {
+	width: 93px;
+	height: 29px;
+}
+.icon {
+	width: 24px;
+	height: 24px;
+	margin: 0 16px 0 16px;
+}
+.container {
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.menu {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.menu__list {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	width: 467px;
+}
+.list__item {
+	font-size: 18px;
+	font-weight: 700;
+	color: #2b1b12;
+}
+.btn-container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.btn {
+	color: #fff;
+	background-color: #2b1b12;
+	width: 122px;
+	height: 48px;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-left: 44px;
+	font-size: 16px;
+	font-weight: 600;
+	border-radius: 8px;
+	box-shadow: 0 4px 4px #00000025;
+}
